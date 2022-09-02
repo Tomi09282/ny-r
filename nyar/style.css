@@ -1,0 +1,21 @@
+body{
+background-image: url(hatter.jpg);
+background-repeat: repeat;
+
+}
+table{
+    background-color: gray;
+    border-radius: 5px;
+    color: white;
+    position: relative;
+    margin-top: 30px;
+    border-collapse: collapse;
+    border-style: hidden;
+}
+table td, table th {
+    border: 2px solid black;
+}
+#icon{
+    width: 32px;
+    height: 32px;
+}
